@@ -1,0 +1,181 @@
+,Country,Diabetes prevalence in 2019,Population
+0,Aruba,11.6,106.766
+1,Afghanistan,9.2,38928.346
+2,Angola,4.5,32866.272
+3,Albania,9.0,2877.797
+4,Andorra,7.7,77.265
+5,United Arab Emirates,16.3,9890.402
+6,Argentina,5.9,45195.774
+7,Armenia,6.1,2963.243
+8,Antigua and Barbuda,13.1,97.929
+9,Australia,5.6,25499.884
+10,Austria,6.6,9006.398
+11,Azerbaijan,6.1,10139.177
+12,Burundi,5.1,11890.784
+13,Belgium,4.6,11589.623
+14,Benin,1.0,12123.2
+15,Burkina Faso,7.3,20903.273
+16,Bangladesh,9.2,164689.383
+17,Bulgaria,6.0,6948.445
+18,Bahrain,15.6,1701.575
+19,Bosnia and Herzegovina,9.0,3280.819
+20,Belarus,5.0,9449.323
+21,Belize,17.1,397.628
+22,Bermuda,6.7,62.278
+23,Bolivia,6.8,11673.021
+24,Brazil,10.4,212559.417
+25,Barbados,13.4,287.375
+26,Bhutan,10.3,771.608
+27,Botswana,5.8,2351.627
+28,Central African Republic,6.0,4829.767
+29,Canada,7.6,37742.154
+30,Switzerland,5.7,8654.622
+31,Chile,8.6,19116.201
+32,China,9.2,1439323.776
+33,Cameroon,6.0,26545.863
+34,Colombia,7.4,50882.891
+35,Comoros,12.3,869.601
+36,Costa Rica,9.1,5094.118
+37,Cuba,9.6,11326.616
+38,Curacao,11.6,164.093
+39,Cayman Islands,6.8,65.722
+40,Cyprus,9.0,1207.359
+41,Czech Republic,7.0,10708.981
+42,Germany,10.4,83783.942
+43,Djibouti,5.1,988.0
+44,Dominica,11.6,71.986
+45,Denmark,8.3,5792.202
+46,Dominican Republic,8.6,10847.91
+47,Algeria,6.7,43851.044
+48,Ecuador,5.5,17643.054
+49,Eritrea,5.1,3546.421
+50,Spain,6.9,46754.778
+51,Estonia,4.2,1326.535
+52,Ethiopia,4.3,114963.588
+53,Finland,5.6,5540.72
+54,Fiji,14.7,896.445
+55,France,4.8,65273.511
+56,Faroe Islands,4.7,48.863
+57,Gabon,6.0,2225.734
+58,United Kingdom,3.9,67886.011
+59,Georgia,5.8,3989.167
+60,Ghana,2.5,31072.94
+61,Guinea,2.4,13132.795
+62,Guinea-Bissau,2.4,1968.001
+63,Equatorial Guinea,6.0,1402.985
+64,Greece,4.7,10423.054
+65,Grenada,10.7,112.523
+66,Greenland,2.1,56.77
+67,Guatemala,10.0,17915.568
+68,Guam,18.7,168.775
+69,Guyana,11.6,786.552
+70,Honduras,7.3,9904.607
+71,Croatia,5.4,4105.267
+72,Haiti,6.7,11402.528
+73,Hungary,6.9,9660.351
+74,Indonesia,6.3,273523.615
+75,India,10.4,1380004.385
+76,Ireland,3.2,4937.786
+77,Iraq,8.8,40222.493
+78,Iceland,5.8,341.243
+79,Israel,9.7,8655.535
+80,Italy,5.0,60461.826
+81,Jamaica,11.3,2961.167
+82,Jordan,12.7,10203.134
+83,Japan,5.6,126476.461
+84,Kazakhstan,6.1,18776.707
+85,Kenya,3.1,53771.296
+86,Cambodia,6.4,16718.965
+87,Kiribati,22.5,119.449
+88,Kuwait,12.2,4270.571
+89,Lebanon,11.2,6825.445
+90,Liberia,2.4,5057.681
+91,Libya,10.2,6871.292
+92,Liechtenstein,9.4,38.128
+93,Sri Lanka,10.7,21413.249
+94,Lesotho,4.5,2142.249
+95,Lithuania,3.8,2722.289
+96,Luxembourg,5.0,625.978
+97,Latvia,5.0,1886.198
+98,Morocco,7.0,36910.56
+99,Monaco,2.9,39.242
+100,Moldova,5.7,4033.963
+101,Madagascar,4.5,27691.018
+102,Maldives,9.2,540.544
+103,Mexico,13.5,128932.753
+104,Marshall Islands,30.5,59.19
+105,Mali,2.4,20250.833
+106,Malta,8.3,441.543
+107,Myanmar,3.9,54409.8
+108,Montenegro,9.0,628.066
+109,Mongolia,4.7,3278.29
+110,Mozambique,3.3,31255.435
+111,Mauritania,7.1,4649.658
+112,Mauritius,22.0,1271.768
+113,Malawi,4.5,19129.952
+114,Malaysia,16.7,32365.999
+115,Namibia,4.5,2540.905
+116,New Caledonia,21.8,285.498
+117,Niger,2.4,24206.644
+118,Nigeria,3.1,206139.589
+119,Nicaragua,11.4,6624.554
+120,Netherlands,5.4,17134.872
+121,Norway,5.3,5421.241
+122,Nepal,7.2,29136.808
+123,Nauru,12.0,10.824
+124,New Zealand,6.2,4822.233
+125,Oman,10.1,5106.626
+126,Pakistan,19.9,220892.34
+127,Panama,7.7,4314.767
+128,Peru,6.6,32971.854
+129,Philippines,7.1,109581.078
+130,Palau,17.9,18.094
+131,Papua New Guinea,17.9,8947.024
+132,Poland,6.1,37846.611
+133,Puerto Rico,13.7,2860.853
+134,Portugal,9.8,10196.709
+135,Paraguay,9.6,7132.538
+136,French Polynesia,19.5,280.908
+137,Qatar,15.6,2881.053
+138,Romania,6.9,19237.691
+139,Rwanda,5.1,12952.218
+140,Saudi Arabia,15.8,34813.871
+141,Sudan,22.1,43849.26
+142,Senegal,2.4,16743.927
+143,Singapore,5.5,5850.342
+144,Solomon Islands,19.0,686.884
+145,Sierra Leone,2.4,7976.983
+146,El Salvador,8.8,6486.205
+147,San Marino,5.9,33.931
+148,Somalia,5.1,15893.222
+149,Serbia,9.0,8737.371
+150,South Sudan,10.2,11193.725
+151,Sao Tome and Principe,2.4,219.159
+152,Suriname,12.5,586.632
+153,Slovenia,5.9,2078.938
+154,Sweden,4.8,10099.265
+155,Seychelles,12.3,98.347
+156,Chad,6.0,16425.864
+157,Togo,2.4,8278.724
+158,Thailand,7.0,69799.978
+159,Tajikistan,6.1,9537.645
+160,Turkmenistan,6.1,6031.2
+161,Timor-Leste,6.7,1318.445
+162,Tonga,15.7,105.695
+163,Trinidad and Tobago,11.0,1399.488
+164,Tunisia,8.5,11818.619
+165,Turkey,11.1,84339.067
+166,Tuvalu,22.1,11.792
+167,Tanzania,5.7,59734.218
+168,Uganda,2.5,45741.007
+169,Ukraine,6.1,43733.762
+170,Uruguay,7.3,3473.73
+171,United States,10.8,331002.651
+172,Uzbekistan,6.5,33469.203
+173,British Virgin Islands,14.2,30.231
+174,Vietnam,6.0,97338.579
+175,Vanuatu,11.9,307.145
+176,Samoa,9.2,198.414
+177,South Africa,12.7,59308.69
+178,Zambia,4.5,18383.955
+179,Zimbabwe,1.8,14862.924
